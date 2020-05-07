@@ -1,0 +1,10 @@
+May 07:
+
+Tried to open Hypothesis with GitHub
+(we are supposed to do this right?)
+
+it required me to sign back in
+after signing back in, the screen read "cookies must be enabled to use GitHub"
+Im sure theres a way to do this. Maybe im just not seeing it
+i use firefox if this makes a difference.
+feeling frustrated and antsy, goign for a bike ride, ill try again later
