@@ -20,4 +20,9 @@ break to shower
 Update: 4:40 
 
 i will work on hypothesis for 20 minutes
+getting distracted
 It is telling me to get a browser extension
+it appeaers as if i can download a repository for my browser
+i will work on that tomorrow
+
+
