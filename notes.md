@@ -25,4 +25,9 @@ It is telling me to get a browser extension
 it appeaers as if i can download a repository for my browser
 i will work on that tomorrow
 
+End of week
+
+Did not feel like i accomplised alot for this class. 
+Increase focus 
+
 
